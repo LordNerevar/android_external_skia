@@ -550,6 +550,7 @@ endif
 
 LOCAL_SHARED_LIBRARIES := \
 	liblog \
+	libdl \
 	libcutils \
 	libft2 \
 	libjpeg \
